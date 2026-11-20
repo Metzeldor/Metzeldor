@@ -1,6 +1,113 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0C,100:0A0A0C&height=8&section=header" width="100%"/>
+
+<br/><br/>
+
+**ANDRÉS TEJADA**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1200&color=E8E8ED&center=true&vCenter=true&width=720&lines=Dise%C3%B1o+digital+con+prop%C3%B3sito;Sistemas+que+trabajan+mientras+usted+descansa;Presencia+web+%2B+agentes+de+IA" alt="Tagline"/>
+
+<br/><br/>
+
+`Cali, Colombia` &nbsp;·&nbsp; `Trabajo remoto` &nbsp;·&nbsp; `Disponible para proyectos`
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:6C63FF&height=2&section=header" width="180"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### Enfoque
+
+Diseño y desarrollo soluciones digitales para negocios que necesitan claridad, presencia y eficiencia.  
+No se trata solo de páginas web o automatizaciones: se trata de sistemas que comunican, venden y operan con coherencia.
+
+Mi formación práctica proviene de casi nueve años en atención al cliente y operaciones. Esa experiencia me permite diseñar interfaces y flujos que resuelven problemas reales, no solo que se ven bien.
+
+<br/>
+
+---
+
+<br/>
+
+### Servicios
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<br/>
+
+**01 — Presencia**
+
+Sitios web y landing pages  
+con estructura clara,  
+carga rápida y  
+diseño responsive.
+
+Orientados a conversión  
+y a la identidad de marca.
+
+<br/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<br/>
+
+**02 — Inteligencia**
+
+Agentes de IA entrenados  
+con la información real  
+de su negocio.
+
+Atención, calificación  
+de leads y seguimiento  
+automatizado.
+
+<br/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<br/>
+
+**03 — Sistemas**
+
+Automatización de procesos  
+entre herramientas,  
+formularios, CRM  
+y canales de comunicación.
+
+Menos fricción operativa.  
+Más tiempo para lo esencial.
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+### Método de trabajo
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:1A1A2E,100:00D4FF&height=220&section=header&text=Andr%C3%A9s%20Tejada&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Web%20%E2%80%A2%20Agentes%20de%20IA%20%E2%80%A2%20Automatizaci%C3%B3n&descSize=18&descAlignY=62&animation=fadeIn" alt="Andrés Tejada" width="100%"/>
 
 <br/>
